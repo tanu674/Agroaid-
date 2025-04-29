@@ -1,0 +1,170 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "upload": "Upload",
+    "download": "Download",
+    "close": "Close",
+    "submit": "Submit",
+    "required": "Required"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "diseaseDetection": "Disease Detection",
+    "weatherData": "Weather & Soil",
+    "outbreakMap": "Outbreak Map",
+    "recommendations": "Recommendations",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "home": {
+    "hero": {
+      "title": "Smart Farming Solutions",
+      "subtitle": "Get ahead of crop diseases with AI-powered detection and management",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "Features",
+      "diseaseDetection": {
+        "title": "AI Disease Detection",
+        "description": "Upload images of your crops to instantly identify diseases and get treatment recommendations"
+      },
+      "weatherData": {
+        "title": "Weather & Soil Analysis",
+        "description": "Access real-time weather and soil data to make informed farming decisions"
+      },
+      "outbreakMap": {
+        "title": "Disease Outbreak Maps",
+        "description": "Track disease outbreaks in your region to protect your crops"
+      },
+      "recommendations": {
+        "title": "Smart Recommendations",
+        "description": "Receive personalized recommendations based on your crops and location"
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": "Upload images of your crops",
+      "step2": "Get instant disease detection results",
+      "step3": "View treatment recommendations",
+      "step4": "Monitor weather and soil conditions",
+      "step5": "Implement farming strategies"
+    }
+  },
+  "diseaseDetection": {
+    "title": "Disease Detection",
+    "uploadPrompt": "Upload an image of your crop",
+    "dragAndDrop": "Drag & drop your image here, or click to browse",
+    "analyzing": "Analyzing your image...",
+    "results": {
+      "title": "Detection Results",
+      "diseaseName": "Disease Name",
+      "confidence": "Confidence",
+      "symptoms": "Symptoms",
+      "treatments": "Treatments",
+      "moreInfo": "More Information"
+    },
+    "history": {
+      "title": "Detection History",
+      "date": "Date",
+      "crop": "Crop",
+      "disease": "Disease",
+      "noHistory": "No detection history yet"
+    }
+  },
+  "weatherData": {
+    "title": "Weather & Soil Data",
+    "location": "Location",
+    "currentConditions": "Current Conditions",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall",
+    "forecast": "Forecast",
+    "soil": {
+      "title": "Soil Data",
+      "moisture": "Moisture",
+      "ph": "pH Level",
+      "nutrients": "Nutrients",
+      "organicMatter": "Organic Matter"
+    }
+  },
+  "outbreakMap": {
+    "title": "Disease Outbreak Map",
+    "filters": {
+      "title": "Filters",
+      "disease": "Disease",
+      "crop": "Crop",
+      "timeRange": "Time Range",
+      "severity": "Severity"
+    },
+    "legend": {
+      "title": "Legend",
+      "lowRisk": "Low Risk",
+      "mediumRisk": "Medium Risk",
+      "highRisk": "High Risk"
+    },
+    "details": {
+      "title": "Outbreak Details",
+      "location": "Location",
+      "reported": "Reported",
+      "severity": "Severity",
+      "affectedCrops": "Affected Crops",
+      "recommendations": "Recommendations"
+    }
+  },
+  "recommendations": {
+    "title": "Recommendations",
+    "priority": {
+      "high": "High Priority",
+      "medium": "Medium Priority",
+      "low": "Low Priority"
+    },
+    "categories": {
+      "disease": "Disease Prevention",
+      "weather": "Weather Response",
+      "soil": "Soil Management",
+      "general": "General Farming"
+    },
+    "actionItems": "Action Items",
+    "targetDate": "Target Date",
+    "markComplete": "Mark as Complete"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "farmInfo": "Farm Information",
+    "farmName": "Farm Name",
+    "location": "Location",
+    "size": "Size",
+    "crops": "Crops",
+    "updateProfile": "Update Profile"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "enableNotifications": "Enable Notifications",
+    "emailNotifications": "Email Notifications",
+    "pushNotifications": "Push Notifications",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "saveSettings": "Save Settings"
+  }
+}
